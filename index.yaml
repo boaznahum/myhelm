@@ -3,7 +3,17 @@ entries:
   gitrepotest:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-01-10T21:34:55.5425659+02:00"
+    created: "2021-01-10T21:58:46.487969+02:00"
+    description: Git repo test
+    digest: 5fa5f819eb182ec271b7ba7a8f7e6dce9c66d6c1f752c5efe776a49f0b824396
+    name: gitrepotest
+    type: application
+    urls:
+    - gitrepotest-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-01-10T21:58:46.4871231+02:00"
     description: Git repo test
     digest: 6c6d09d578cb0974c07dd9607f9329212291224d1fd0548fa4c8948d1b44c726
     name: gitrepotest
@@ -11,4 +21,4 @@ entries:
     urls:
     - gitrepotest-0.1.0.tgz
     version: 0.1.0
-generated: "2021-01-10T21:34:55.5422004+02:00"
+generated: "2021-01-10T21:58:46.4867545+02:00"
